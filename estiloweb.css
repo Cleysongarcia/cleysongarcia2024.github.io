@@ -2,7 +2,7 @@ body {
   padding-left: 176px;
   font-family:Arial;
   color: white;
-  background: url("back.jpg") no-repeat center center fixed;
+  background-image: url("back.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
